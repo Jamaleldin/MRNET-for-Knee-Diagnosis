@@ -1,0 +1,389 @@
+initial state: 43
+from 43 with input ! to 44 
+from 43 with input ( to 0 
+from 43 with input ) to 1 
+from 43 with input * or / to 2 
+from 43 with input + or - to 3 
+from 43 with input , to 4 
+from 43 with input digit to 19 
+from 43 with input ; to 6 
+from 43 with input < to 22 
+from 43 with input = to 8 
+from 43 with input > to 23 
+from 43 with input [A-Z] or [a-z] - {b,e,f,i,w} to 24 
+from 43 with input b to 25 
+from 43 with input e to 26 
+from 43 with input f to 27 
+from 43 with input i to 28 
+from 43 with input w to 29 
+from 43 with input { to 10 
+from 43 with input } to 11 
+from 44 with input = to 7 
+from 19 with input . to 45 
+from 19 with input digit to 19 
+from 22 with input = to 7 
+from 8 with input = to 7 
+from 23 with input = to 7 
+from 24 with input digit to 24 
+from 24 with input [A-Z] or [a-z] to 24 
+from 25 with input digit to 24 
+from 25 with input [A-Z] or [a-z] - {o} to 24 
+from 25 with input o to 30 
+from 26 with input digit to 24 
+from 26 with input [A-Z] or [a-z] - {l} to 24 
+from 26 with input l to 31 
+from 27 with input digit to 24 
+from 27 with input [A-Z] or [a-z] - {l} to 24 
+from 27 with input l to 32 
+from 28 with input digit to 24 
+from 28 with input [A-Z] or [a-z] - {f,n} to 24 
+from 28 with input f to 12 
+from 28 with input n to 33 
+from 29 with input digit to 24 
+from 29 with input [A-Z] or [a-z] - {h} to 24 
+from 29 with input h to 34 
+from 45 with input digit to 46 
+from 30 with input digit to 24 
+from 30 with input [A-Z] or [a-z] - {o} to 24 
+from 30 with input o to 35 
+from 31 with input digit to 24 
+from 31 with input [A-Z] or [a-z] - {s} to 24 
+from 31 with input s to 36 
+from 32 with input digit to 24 
+from 32 with input [A-Z] or [a-z] - {o} to 24 
+from 32 with input o to 37 
+from 12 with input digit to 24 
+from 12 with input [A-Z] or [a-z] to 24 
+from 33 with input digit to 24 
+from 33 with input [A-Z] or [a-z] - {t} to 24 
+from 33 with input t to 13 
+from 34 with input digit to 24 
+from 34 with input [A-Z] or [a-z] - {i}  to 24 
+from 34 with input i to 38 
+from 46 with input digit to 56 
+from 46 with input E to 66 
+from 46 with input \ to 18 
+from 47 with input 0 to 56 
+from 47 with input 1 to 57 
+from 47 with input 2 to 58 
+from 47 with input 3 to 59 
+from 47 with input 4 to 60  
+from 47 with input 5 to 61 
+from 47 with input 6 to 62 
+from 47 with input 7 to 63 
+from 47 with input 8 to 64 
+from 47 with input 9 to 65 
+from 47 with input E to 66 
+from 47 with input \ to 18 
+from 48 with input 0 to 56 
+from 48 with input 1 to 57 
+from 48 with input 2 to 58 
+from 48 with input 3 to 59 
+from 48 with input 4 to 60 
+from 48 with input 5 to 61 
+from 48 with input 6 to 62 
+from 48 with input 7 to 63 
+from 48 with input 8 to 64 
+from 48 with input 9 to 65 
+from 48 with input E to 66 
+from 48 with input \ to 18 
+from 49 with input 0 to 56 
+from 49 with input 1 to 57 
+from 49 with input 2 to 58 
+from 49 with input 3 to 59 
+from 49 with input 4 to 60 
+from 49 with input 5 to 61 
+from 49 with input 6 to 62 
+from 49 with input 7 to 63 
+from 49 with input 8 to 64 
+from 49 with input 9 to 65 
+from 49 with input E to 66 
+from 49 with input \ to 18 
+from 50 with input 0 to 56 
+from 50 with input 1 to 57 
+from 50 with input 2 to 58 
+from 50 with input 3 to 59 
+from 50 with input 4 to 60 
+from 50 with input 5 to 61 
+from 50 with input 6 to 62 
+from 50 with input 7 to 63 
+from 50 with input 8 to 64 
+from 50 with input 9 to 65 
+from 50 with input E to 66 
+from 50 with input \ to 18 
+from 51 with input 0 to 56 
+from 51 with input 1 to 57 
+from 51 with input 2 to 58 
+from 51 with input 3 to 59 
+from 51 with input 4 to 60 
+from 51 with input 5 to 61 
+from 51 with input 6 to 62 
+from 51 with input 7 to 63 
+from 51 with input 8 to 64 
+from 51 with input 9 to 65 
+from 51 with input E to 66 
+from 51 with input \ to 18 
+from 52 with input 0 to 56 
+from 52 with input 1 to 57 
+from 52 with input 2 to 58 
+from 52 with input 3 to 59 
+from 52 with input 4 to 60 
+from 52 with input 5 to 61 
+from 52 with input 6 to 62 
+from 52 with input 7 to 63 
+from 52 with input 8 to 64 
+from 52 with input 9 to 65 
+from 52 with input E to 66 
+from 52 with input \ to 18 
+from 53 with input 0 to 56 
+from 53 with input 1 to 57 
+from 53 with input 2 to 58 
+from 53 with input 3 to 59 
+from 53 with input 4 to 60 
+from 53 with input 5 to 61 
+from 53 with input 6 to 62 
+from 53 with input 7 to 63 
+from 53 with input 8 to 64 
+from 53 with input 9 to 65 
+from 53 with input E to 66 
+from 53 with input \ to 18 
+from 54 with input 0 to 56 
+from 54 with input 1 to 57 
+from 54 with input 2 to 58 
+from 54 with input 3 to 59 
+from 54 with input 4 to 60 
+from 54 with input 5 to 61 
+from 54 with input 6 to 62 
+from 54 with input 7 to 63 
+from 54 with input 8 to 64 
+from 54 with input 9 to 65 
+from 54 with input E to 66 
+from 54 with input \ to 18 
+from 55 with input 0 to 56 
+from 55 with input 1 to 57 
+from 55 with input 2 to 58 
+from 55 with input 3 to 59 
+from 55 with input 4 to 60 
+from 55 with input 5 to 61 
+from 55 with input 6 to 62 
+from 55 with input 7 to 63 
+from 55 with input 8 to 64 
+from 55 with input 9 to 65 
+from 55 with input E to 66 
+from 55 with input \ to 18 
+from 35 with input digit to 24 
+from 35 with input [A-Z] or [a-z] - {l} to 24 
+from 35 with input l to 39 
+from 36 with input digit to 24 
+from 36 with input [A-Z] or [a-z] - {e} to 24 
+from 36 with input e to 14 
+from 37 with input digit to 24 
+from 37 with input [A-Z] or [a-z] - {a} to 24 
+from 37 with input a to 40 
+from 13 with input digit to 24 
+from 13 with input [A-Z] or [a-z] to 24 
+from 38 with input digit to 24 
+from 38 with input [A-Z] or [a-z] - {l} to 24 
+from 38 with input l to 41 
+from 56 with input 0 to 56 
+from 56 with input 1 to 57 
+from 56 with input 2 to 58 
+from 56 with input 3 to 59 
+from 56 with input 4 to 60 
+from 56 with input 5 to 61 
+from 56 with input 6 to 62 
+from 56 with input 7 to 63 
+from 56 with input 8 to 64 
+from 56 with input 9 to 65 
+from 56 with input E to 66 
+from 56 with input \ to 18 
+from 57 with input 0 to 56 
+from 57 with input 1 to 57 
+from 57 with input 2 to 58 
+from 57 with input 3 to 59 
+from 57 with input 4 to 60 
+from 57 with input 5 to 61 
+from 57 with input 6 to 62 
+from 57 with input 7 to 63 
+from 57 with input 8 to 64 
+from 57 with input 9 to 65 
+from 57 with input E to 66 
+from 57 with input \ to 18 
+from 58 with input 0 to 56 
+from 58 with input 1 to 57 
+from 58 with input 2 to 58 
+from 58 with input 3 to 59 
+from 58 with input 4 to 60 
+from 58 with input 5 to 61 
+from 58 with input 6 to 62 
+from 58 with input 7 to 63 
+from 58 with input 8 to 64 
+from 58 with input 9 to 65 
+from 58 with input E to 66 
+from 58 with input \ to 18 
+from 59 with input 0 to 56 
+from 59 with input 1 to 57 
+from 59 with input 2 to 58 
+from 59 with input 3 to 59 
+from 59 with input 4 to 60 
+from 59 with input 5 to 61 
+from 59 with input 6 to 62 
+from 59 with input 7 to 63 
+from 59 with input 8 to 64 
+from 59 with input 9 to 65 
+from 59 with input E to 66 
+from 59 with input \ to 18 
+from 60 with input 0 to 56 
+from 60 with input 1 to 57 
+from 60 with input 2 to 58 
+from 60 with input 3 to 59 
+from 60 with input 4 to 60 
+from 60 with input 5 to 61 
+from 60 with input 6 to 62 
+from 60 with input 7 to 63 
+from 60 with input 8 to 64 
+from 60 with input 9 to 65 
+from 60 with input E to 66 
+from 60 with input \ to 18 
+from 61 with input 0 to 56 
+from 61 with input 1 to 57 
+from 61 with input 2 to 58 
+from 61 with input 3 to 59 
+from 61 with input 4 to 60 
+from 61 with input 5 to 61 
+from 61 with input 6 to 62 
+from 61 with input 7 to 63 
+from 61 with input 8 to 64 
+from 61 with input 9 to 65 
+from 61 with input E to 66 
+from 61 with input \ to 18 
+from 62 with input 0 to 56 
+from 62 with input 1 to 57 
+from 62 with input 2 to 58 
+from 62 with input 3 to 59 
+from 62 with input 4 to 60 
+from 62 with input 5 to 61 
+from 62 with input 6 to 62 
+from 62 with input 7 to 63 
+from 62 with input 8 to 64 
+from 62 with input 9 to 65 
+from 62 with input E to 66 
+from 62 with input \ to 18 
+from 63 with input 0 to 56 
+from 63 with input 1 to 57 
+from 63 with input 2 to 58 
+from 63 with input 3 to 59 
+from 63 with input 4 to 60 
+from 63 with input 5 to 61 
+from 63 with input 6 to 62 
+from 63 with input 7 to 63 
+from 63 with input 8 to 64 
+from 63 with input 9 to 65 
+from 63 with input E to 66 
+from 63 with input \ to 18 
+from 64 with input 0 to 56 
+from 64 with input 1 to 57 
+from 64 with input 2 to 58 
+from 64 with input 3 to 59 
+from 64 with input 4 to 60 
+from 64 with input 5 to 61 
+from 64 with input 6 to 62 
+from 64 with input 7 to 63 
+from 64 with input 8 to 64 
+from 64 with input 9 to 65 
+from 64 with input E to 66 
+from 64 with input \ to 18 
+from 65 with input 0 to 56 
+from 65 with input 1 to 57 
+from 65 with input 2 to 58 
+from 65 with input 3 to 59 
+from 65 with input 4 to 60 
+from 65 with input 5 to 61 
+from 65 with input 6 to 62 
+from 65 with input 7 to 63 
+from 65 with input 8 to 64 
+from 65 with input 9 to 65 
+from 65 with input E to 66 
+from 65 with input \ to 18 
+from 66 with input 0 to 20 
+from 66 with input 1 to 20 
+from 66 with input 2 to 20 
+from 66 with input 3 to 20 
+from 66 with input 4 to 20 
+from 66 with input 5 to 20 
+from 66 with input 6 to 20 
+from 66 with input 7 to 20 
+from 66 with input 8 to 20 
+from 66 with input 9 to 20 
+from 18 with input L to 21 
+from 39 with input digit to 24 
+from 39 with input [A-Z] or [a-z] - {e} to 24 
+from 39 with input e to 42 
+from 14 with input digit to 24 
+from 14 with input [A-Z] or [a-z] to 24 
+from 40 with input digit to 24 
+from 40 with input [A-Z] or [a-z] - {t} to 24 
+from 40 with input t to 15 
+from 41 with input digit to 24 
+from 41 with input [A-Z] or [a-z] - {e} to 24 
+from 41 with input e to 16 
+from 20 with input digit to 5 
+from 42 with input digit to 24 
+from 42 with input [A-Z] or [a-z] - {a} to 24 
+from 42 with input a to 9 
+from 15 with input digit to 24 
+from 15 with input [A-Z] or [a-z] to 24 
+from 16 with input digit to 24 
+from 16 with input [A-Z] or [a-z] to 24 
+from 5 with input digit to 5 
+from 9 with input digit to 24 
+from 9 with input [A-Z] or [a-z] - {n} to 24 
+from 9 with input n to 17 
+from 17 with input digit to 24 
+from 17 with input [A-Z] or [a-z] to 24 
+
+final states: 
+0 result: ( 
+1 result: ) 
+2 result: mulop 
+3 result: addop 
+4 result: , 
+19 result: num 
+6 result: ; 
+22 result: relop 
+8 result: assign 
+23 result: relop 
+24 result: id 
+25 result: id 
+26 result: id 
+27 result: id 
+28 result: id 
+29 result: id 
+10 result: { 
+11 result: } 
+7 result: relop 
+30 result: id 
+31 result: id 
+32 result: id 
+12 result: if 
+33 result: id 
+34 result: id 
+35 result: id 
+36 result: id 
+37 result: id 
+13 result: int 
+38 result: id 
+39 result: id 
+14 result: else 
+40 result: id 
+41 result: id 
+20 result: num 
+21 result: num 
+42 result: id 
+15 result: float 
+16 result: while 
+5 result: num 
+9 result: id 
+17 result: boolean 
+
+number of states: 67
